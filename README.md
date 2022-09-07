@@ -23,13 +23,13 @@
 
 </div>
 
-
+<div style="display: inline_block" lign="center">
 ## Alguns dos meus Projetos
 
 [Projeto Odonto Rio](https://guilhermedantas94.github.io/Odonto-rio/)</br>
 [Projeto Pousada](https://guilhermedantas94.github.io/pousada/)
 
-
+</div>
 
 
 <br/>
