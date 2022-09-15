@@ -30,6 +30,7 @@
 [Projeto Pousada](https://guilhermedantas94.github.io/pousada/)</br>
 [Projeto Restaurante](https://guilhermedantas94.github.io/projeto-restaurante/)</br>
 [Projeto Rustico](https://guilhermedantas94.github.io/projeto-rustico/)</br>
+[Projeto Hard Core](https://guilhermedantas94.github.io/projeto-hardcore/)</br>
 
 
 
