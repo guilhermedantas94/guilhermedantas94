@@ -28,7 +28,8 @@
 
 [Projeto Odonto Rio](https://guilhermedantas94.github.io/Odonto-rio/)</br>
 [Projeto Pousada](https://guilhermedantas94.github.io/pousada/)</br>
-[Projeto Restaurante](https://guilhermedantas94.github.io/projeto-restaurante/)
+[Projeto Restaurante](https://guilhermedantas94.github.io/projeto-restaurante/)</br>
+[Projeto Rustico](https://guilhermedantas94.github.io/projeto-rustico/)</br>
 
 
 
